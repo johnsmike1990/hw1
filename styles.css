@@ -1,0 +1,25 @@
+img {
+  float: right;
+  height: 150px;
+  box-shadow: 8px 8px 4px #AAA;
+}
+
+h3 {
+  color: DarkCyan;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  border-bottom: solid 4px gray;
+}
+
+h2 {
+  color: DarkCyan;
+}
+
+body {
+  background-color: lightblue;
+}
+
+.container {
+  border-left: solid 4px gray;
+  border-right: solid 4px gray;
+}
